@@ -10,6 +10,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.frontend.domain.Users;
 import com.frontend.service.UserService;
 
+/*
+ * 
+ * Main controller class
+ * 
+ */
+
 @Controller
 public class HomeController {
 	

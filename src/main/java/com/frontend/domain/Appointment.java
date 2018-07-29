@@ -9,6 +9,12 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
+/*
+ * Appointment model class
+ * 
+ */
+
+
 @Entity
 public class Appointment {
 	

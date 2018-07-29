@@ -10,6 +10,12 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
+/*
+ * Savings Trasaction model class
+ * 
+ */
+
+
 @Entity
 public class SavingsTransaction {
 	

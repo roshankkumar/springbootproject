@@ -1,6 +1,9 @@
 package com.frontend.domain;
 
 import java.math.BigDecimal;
+
+
+
 import java.util.Date;
 
 import javax.persistence.Entity;
@@ -9,6 +12,11 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+
+/*
+ * Primary Transaction model class
+ * 
+ */
 
 @Entity
 public class PrimaryTransaction {

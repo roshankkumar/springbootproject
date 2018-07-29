@@ -20,6 +20,8 @@ import com.frontend.service.UserService;
 @Transactional
 public class UserServiceImpl implements UserService{
 	
+	
+	
 	private static final Logger LOG = LoggerFactory.getLogger(UserService.class);
 	
 	@Autowired

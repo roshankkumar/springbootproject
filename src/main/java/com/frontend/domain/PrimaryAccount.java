@@ -13,6 +13,11 @@ import javax.persistence.OneToMany;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
+/*
+ * Primary Account model class
+ * 
+ */
+
 @Entity
 public class PrimaryAccount {
 	

@@ -9,6 +9,13 @@ import javax.persistence.ManyToOne;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
+
+/*
+ * Recipient model class
+ * 
+ */
+
+
 @Entity
 public class Recipient {
 	

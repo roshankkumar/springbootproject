@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UserFrontEndApplication {
 
 	public static void main(String[] args) {
+		//main entry point
 		SpringApplication.run(UserFrontEndApplication.class, args);
 	}
 }

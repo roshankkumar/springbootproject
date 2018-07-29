@@ -13,6 +13,13 @@ import javax.persistence.OneToMany;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
+
+/*
+ * Savings Acc model class
+ * 
+ */
+
+
 @Entity
 public class SavingsAccount {
 	

@@ -14,6 +14,13 @@ import javax.persistence.OneToOne;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
+
+/*
+ * Users model class
+ * 
+ */
+
+
 @Entity
 public class Users {
 	
